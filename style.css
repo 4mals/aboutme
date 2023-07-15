@@ -1,0 +1,17 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+  background-color:#171717;
+}
+h1{
+  color: #fff;
+  white-space: pre-line;
+  margin-left: 25px;
+  font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu;
+font-weight: 110;
+font-style: normal;
+  font-size: 25px;
+  
+}
